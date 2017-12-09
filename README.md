@@ -1,2 +1,2 @@
 # solution
-java solutiongit git
+java solution
