@@ -1,2 +1,2 @@
 # solution
-java solution test
+java solution
